@@ -46,6 +46,7 @@ view/
 .cache/
 .xmake/
 
+<<<<<<< HEAD
 # bundle javacomplet2
 bundle/vim-javacomplete2/libs/javavi/.classpath
 bundle/vim-javacomplete2/libs/javavi/.factorypath
@@ -54,5 +55,7 @@ bundle/vim-javacomplete2/libs/javavi/.settings/org.eclipse.core.resources.prefs
 bundle/vim-javacomplete2/libs/javavi/.settings/org.eclipse.jdt.apt.core.prefs
 bundle/vim-javacomplete2/libs/javavi/.settings/org.eclipse.jdt.core.prefs
 bundle/vim-javacomplete2/libs/javavi/.settings/org.eclipse.m2e.core.prefs
+=======
 addons/
 tmp/
+>>>>>>> 7b61068c (Ignore vice directories)
